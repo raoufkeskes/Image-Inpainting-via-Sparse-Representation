@@ -1,4 +1,4 @@
-# LASSO_Inpainting
+# Image-Inpainting-via-Sparse-Representation
 
 - a project proposed by the assistant professor 'Nocolas Baskiotis' specialized in data science and machine learning at Sorbonne university 
 
