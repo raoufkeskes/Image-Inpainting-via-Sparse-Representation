@@ -4,7 +4,7 @@
 
 - The main aim of the project is : 
 
-   1. to tackle a classical machine learning task in computer vision which called " impainting " .
+   1. to tackle a classical machine learning task in computer vision which is called " impainting " .
    2. get in touch with papers ( especially one 'the reference' ) and implement it from scratch .
    3. comparing the two famous regularizations L2 ( Ridge ) and L1 ( LASSO ) in this particular problem and fine-tuning hyper-parameters 
 
