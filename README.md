@@ -22,3 +22,13 @@ Denoising ( even though in the papers , they said that the algorithms are not we
 
 <a href="https://ibb.co/dGnD6nt"><img src="https://i.ibb.co/WgSfFS0/Capture2.png" alt="Capture2" border="0"></a>
 <a href="https://ibb.co/bNBm3f2"><img src="https://i.ibb.co/RQ0bS5B/Capture3.png" alt="Capture3" border="0"></a>
+
+
+
+# References:
+[1] Bin Shen and Wei Hu and Zhang, Yimin and Zhang, Yu-Jin, Image Inpainting via Sparse Representation Proceedings of the 2009 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP ’09)
+
+[2] Julien Mairal Sparse coding and Dictionnary Learning for Image Analysis INRIA Visual Recognition and Machine Learning Summer School, 2010
+
+[3] A. Criminisi, P. Perez, K. Toyama Region Filling and Object Removal by Exemplar-Based Image Inpainting IEEE Transaction on Image Processing (Vol 13-9), 2004
+
