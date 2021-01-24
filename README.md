@@ -25,6 +25,7 @@ Denoising ( even though in the papers , they said that the algorithms are not we
 
 <a href="https://ibb.co/dGnD6nt"><img src="https://i.ibb.co/WgSfFS0/Capture2.png" alt="Capture2" border="0"></a>
 <a href="https://ibb.co/bNBm3f2"><img src="https://i.ibb.co/RQ0bS5B/Capture3.png" alt="Capture3" border="0"></a>
+<a href="https://ibb.co/CPWp51Q"><img src="https://i.ibb.co/QDX7FbM/res2.png" alt="res2" border="0"></a>
 <a href="https://ibb.co/2hxZ4Zy"><img src="https://i.ibb.co/fFfDwD2/res3.png" alt="res3" border="0"></a>
 
 
