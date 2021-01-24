@@ -17,11 +17,16 @@ Inpainting :
 
 <a href="https://ibb.co/qJ0mXXT"><img src="https://i.ibb.co/41s499h/Capture.png" alt="Capture" border="0"></a>
 <a href="https://ibb.co/7KG8dL3"><img src="https://i.ibb.co/Wfcq4jr/Capture4.png" alt="Capture4" border="0"></a>
+<a href="https://ibb.co/8NGwtn8"><img src="https://i.ibb.co/ckR9VKT/res4.png" alt="res4" border="0"></a>
+<a href="https://ibb.co/9VJdbNy"><img src="https://i.ibb.co/1d34rLR/res5.png" alt="res5" border="0"></a>
+
 
 Denoising ( even though in the papers , they said that the algorithms are not well suited for denoising  we tried to adapt these latters ) :
 
 <a href="https://ibb.co/dGnD6nt"><img src="https://i.ibb.co/WgSfFS0/Capture2.png" alt="Capture2" border="0"></a>
 <a href="https://ibb.co/bNBm3f2"><img src="https://i.ibb.co/RQ0bS5B/Capture3.png" alt="Capture3" border="0"></a>
+<a href="https://ibb.co/CPWp51Q"><img src="https://i.ibb.co/QDX7FbM/res2.png" alt="res2" border="0"></a>
+<a href="https://ibb.co/8NGwtn8"><img src="https://i.ibb.co/ckR9VKT/res4.png" alt="res4" border="0"></a><a href="https://ibb.co/8NGwtn8"><img src="https://i.ibb.co/ckR9VKT/res4.png" alt="res4" border="0"></a>
 
 
 
